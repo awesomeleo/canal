@@ -92,6 +92,11 @@
             <artifactId>mssql-jdbc</artifactId>
             <version>7.0.0.jre8</version>
         </dependency>
+        <dependency>
+            <groupId>ru.yandex.clickhouse</groupId>
+            <artifactId>clickhouse-jdbc</artifactId>
+            <version>0.2</version>
+        </dependency>
 
         <!-- outer adapter jar with dependencies-->
         <dependency>
